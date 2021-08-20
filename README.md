@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malko Alexey.
-- 👀 I’m interested in Python and SQL develop for WEB and Data base.
+- 👀 I’m interested in Python and SQL develop for WEB and Data base, want to try Java(just start).
 - 🌱 I’m currently learning Python (Flask and Django).
 - 💞️ I’m looking to collaborate on novice like me.
 - 📫 How to reach me alexeymalko@gmail.com and  telegram (@Malko_Olexiy) maybe skype (alexey_malko).
